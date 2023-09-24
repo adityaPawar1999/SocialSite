@@ -14,8 +14,6 @@ import MoreVertIcon from '@mui/icons-material/MoreVert';
 
 
 export default function RecipeReviewCard() {
-
-  
   return (
     <Box flex={4}>
     <Card sx={{ maxWidth: 845 }}>
@@ -53,14 +51,11 @@ export default function RecipeReviewCard() {
         </IconButton>
         </CardActions>
       </Card>
-
       <br/>
-
     <Card sx={{ maxWidth: 845 }}>
       <CardHeader
         avatar={
-          <Avatar  src="https://www.traveldailymedia.com/assets/2023/09/paradox-museum-las-vegas-color-shadows-room_53039324758_o-1024x657.jpg"  aria-label="recipe">
-            
+          <Avatar  src="https://www.traveldailymedia.com/assets/2023/09/paradox-museum-las-vegas-color-shadows-room_53039324758_o-1024x657.jpg"  aria-label="recipe">         
           </Avatar>
         }
         action={
