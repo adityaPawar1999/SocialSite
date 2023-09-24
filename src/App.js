@@ -4,7 +4,6 @@ import SlideBar from "./components/SlideBar";
 import Feed from "./components/Feed";
 import RightBar from "./components/RightBar";
 import Navbar from "./components/Navbar";
-import './css.css'
 
 function App() {
   return (
