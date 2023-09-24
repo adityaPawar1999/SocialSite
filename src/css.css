@@ -1,0 +1,6 @@
+:root {
+    --bg-color-light: #fff; /* Light mode background color */
+    --text-color-light: #000; /* Light mode text color */
+    --bg-color-dark: #000; /* Dark mode background color */
+    --text-color-dark: #fff; /* Dark mode text color */
+  }
