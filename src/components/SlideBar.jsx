@@ -19,7 +19,7 @@ const SlideBar = () => {
       flex={1}
       paddingTop={9}
       paddingLeft={3}
-      sx={{ display: { xs: 'none', sm: 'block'  } }}
+      sx={{ display: { xs: 'none', sm: 'none'  } }}
   >
     <ListItemButton>
                     <HomeIcon/>
